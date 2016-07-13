@@ -1,0 +1,19 @@
+{
+  "name": "ie9-oninput-polyfill",
+  "version": "1.0.0",
+  "description": "(fork) Simple oninput polyfill for IE9. Works by listening 'selectionchange' event on document and producing 'input' event if input content changed",
+  "main": "ie9-oninput-polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryKa/ie9-oninput-polyfill.git"
+  },
+  "author": "Vitor Buzinaro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DmitryKa/ie9-oninput-polyfill/issues"
+  },
+  "homepage": "https://github.com/DmitryKa/ie9-oninput-polyfill#readme"
+}
